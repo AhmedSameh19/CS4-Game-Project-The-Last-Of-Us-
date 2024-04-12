@@ -18,20 +18,20 @@ This project is a Java game that fully applies object-oriented programming (OOP)
 1. Clone this repository to your local machine:
 
     ```bash
-    git clone https://github.com/AhmedSameh19/Last_Of_Us-Legacy.git
+    git clone https://github.com/AhmedSameh19/CS4-Game-Project-The-Last-Of-Us-.git
     ```
 
 2. Navigate to the project directory:
 
     ```bash
-    cd Last_Of_Us-Legacy
+    cd CS4-Game-Project-The-Last-Of-Us-
     ```
 
 3. Compile and run the project using your preferred Java development environment or command line tools.
 
 ## Contributing
 
-Contributions to this project were made collaboratively by a team of three members. If you would like to contribute, consider joining a team or starting your own collaborative project.
+Contributions to this project were made collaboratively by a team of three members. If you would like to contribute, consider joining a team or starting your collaborative project.
 
 ## Learning Experience
 
